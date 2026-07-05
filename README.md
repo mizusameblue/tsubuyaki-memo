@@ -4,7 +4,7 @@
 
 本アプリケーションは以下のURLからご利用いただけます。
 
-- [https://github.com/mizusameblue/tsubuyaki-memo.git](https://github.com/mizusameblue/tsubuyaki-memo.git)
+- [https://github.com/mizusameblue/tsubuyaki-memo.git](https://github.com/mizusameblue/tsubuyaki-memo.git)](https://mizusameblue.github.io/tsubuyaki-memo/)
 
 ## 機能概要
 
